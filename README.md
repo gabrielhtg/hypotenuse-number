@@ -11,6 +11,7 @@ Cara menggunakannya antara lain:
 4. Masukkan angka-angka yang anda ingin cek sesuai dengan permintaan.
 5. Tekan enter untuk setiap pertanyaan sampai anda mendapatkan hasilnya.
 ![video](video.gif)
+
 ## <b>About Me</b>
 
 I'm a student at Del Institute of Technology. <br>
